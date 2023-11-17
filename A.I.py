@@ -1,3 +1,6 @@
+## The last change to this file was in April 2017
+## rediscovered this in November 2023 inside an old Google Drive
+
 ##Hiesterials.AI's Commands##
 ##Importing Random For Different Answers+Introducing For First Time##
                                       ##DISCLAIMER##
